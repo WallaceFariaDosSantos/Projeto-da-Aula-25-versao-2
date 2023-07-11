@@ -1,2 +1,1 @@
-# Projeto-da-Aula-25-versao-2
-Projeto da aula 25
+# PRO-V2-C25-Modelo
